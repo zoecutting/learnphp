@@ -12,5 +12,5 @@ echo 'Hello', ' ', 'World';
 print '<br />';
 echo 'Zoe\'s invoice';
 print '<br />';
-$name = 'Zoe';
+$name = 'Zoe Cutting';
 echo $name;
