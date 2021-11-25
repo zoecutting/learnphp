@@ -47,23 +47,26 @@ define('STATUS_' . $paid, $paid);
 echo STATUS_PAID;
 echo '<br /><br />';
 
-
 // Predefined/Reserved variables
-
 echo '<a href="https://www.php.net/manual/en/reserved.constants.php" target="_blank">Predefined Constants</a>';
 echo '<br />';
 echo PHP_VERSION;
 echo '<br /><br />';
 
-
 // Magic constants
-
 echo '<a href="https://www.php.net/manual/en/language.constants.magic.php" target="_blank">Magic constants</a>';
 echo '<br />';
 echo __FILE__;
 echo '<br />';
 echo __LINE__;
-
 echo '<br /><br />';
 
+// Variable variables
+// Names the variable as the value of foo so, $bar = 'baz'
+$foo = 'bar';
+$$foo = 'baz';
+echo $foo, $bar;
+echo '<br />';
+echo $foo, $$foo;
+echo '<br /><br />';
 ?>
