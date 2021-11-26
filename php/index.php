@@ -7,3 +7,6 @@
 <a href="strings.php">Strings</a><br />
 <a href="null.php">Null</a><br />
 <a href="arrays.php">Arrays</a><br />
+<a href="expressions.php">Expressions</a><br />
+<a href="operators.php">Operators</a><br />
+<a href="operator_precedence_and_associativity.php">Operator precedence and associativity</a><br />
