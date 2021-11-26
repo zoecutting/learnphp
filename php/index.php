@@ -1,4 +1,9 @@
 <a href="echo_and_print.php">Echo and print</a><br />
 <a href="constants_and_variables.php">Constants and variables</a><br />
 <a href="typecasting.php">Typecasting</a><br />
-
+<a href="booleans.php">Booleans</a><br />
+<a href="integers.php">Integers</a><br />
+<a href="floats.php">Floats</a><br />
+<a href="strings.php">Strings</a><br />
+<a href="null.php">Null</a><br />
+<a href="arrays.php">Arrays</a><br />
