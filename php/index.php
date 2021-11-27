@@ -12,3 +12,4 @@
 <a href="operator_precedence_and_associativity.php">Operator precedence and associativity</a><br />
 <a href="conditional_statements.php">Conditional statements</a><br />
 <a href="loops.php">Loops</a><br />
+<a href="switch_statements.php">Swicth statements</a><br />
