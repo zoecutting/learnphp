@@ -12,5 +12,6 @@
 <a href="operator_precedence_and_associativity.php">Operator precedence and associativity</a><br />
 <a href="conditional_statements.php">Conditional statements</a><br />
 <a href="loops.php">Loops</a><br />
-<a href="switch_and _matchphp">Switch() and Match()</a><br />
+<a href="switch_and _match.php">Switch() and Match()</a><br />
+<a href="return_declare_and_tickable_statements.php">Return, declare and tickable statements</a><br />
 
