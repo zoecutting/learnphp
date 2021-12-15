@@ -12,6 +12,12 @@
 <a href="operator_precedence_and_associativity.php">Operator precedence and associativity</a><br />
 <a href="conditional_statements.php">Conditional statements</a><br />
 <a href="loops.php">Loops</a><br />
-<a href="switch_and _match.php">Switch() and Match()</a><br />
+<a href="switch_and_match_statements.php">Switch() and Match() statements</a><br />
 <a href="return_declare_and_tickable_statements.php">Return, declare and tickable statements</a><br />
+<a href="files_include_and_require.php">Files - include and require</a><br />
+<a href="functions.php">Functions</a><br />
+<a href="function_parameters_variadic_functions_and_unpacking.php">Function parameters, variadic functions and unpacking</a><br />
+<a href="variable_scopes_static_variables.php">Variable scopes, static variables</a><br />
+<a href="variable_and_other_function_types.php">Variable, Anonymous, Callable, Closure & Arrow Functions (revisit this)</a><br />
+<a href="dates_and_timezones.php">Dates and timezones</a><br />
 
